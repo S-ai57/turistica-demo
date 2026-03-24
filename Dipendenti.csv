@@ -1,14 +1,22 @@
-Nome,Ruolo,Contratto ore/sett,Disponibilità Giorni,Note Personali
-Marco Ferretti,Responsabile,40h,Lun-Dom,No domenica 29/03/2026
-Laura Conti,Responsabile,40h,Lun-Dom,No sabato 28/03/2026 mattina
-Giulia Marino,Barista,40h,Lun-Dom,No lunedì 23/03/2026
-Stefano Ricci,Barista,30h,Mar-Dom,No domenica 29/03/2026 sera
-Elena Gallo,Cassiere,40h,Lun-Ven,No turni serali
-Andrea Muti,Cassiere,30h,Lun-Dom,No mercoledì 25/03/2026
-Federica Longo,Cassiere,20h,Sab-Dom,Solo weekend
-Paolo Esposito,Addetto Sala,40h,Lun-Dom,No venerdì 27/03/2026 sera
-Chiara Vitale,Addetto Sala,30h,Lun-Sab,No domenica
-Davide Greco,Addetto Sala,20h,Mer-Dom,No sabato 28/03/2026 mattina
-Alessandro Colombo, Responsabile, 40h, Lun-Dom
-Chiara Loreni, Responsabile, 40h, Mer-Dom
-Silvia Arena, Responsabile, 20h, Ven-Dom
+
+1	Nome, Ruolo, Contratto, ore/sett,	Disponibilità, Giorni, Note Personali
+2	Marco Ferretti,	Responsabile,	40,	Lun-Dom,	No sabato 28/03/2026 mattina
+3	Laura Conti,	Responsabile,	40,	Lun-Dom,	
+4	Roberto Sala,	Responsabile,	32,	Mer-Dom,	
+5	Anna Trevisan,	Responsabile,	40,	Lun-Dom,	No venerdì 27/03/2026 sera
+6	Giulia Marino,	Barista,	40,	Lun-Dom,	
+7	Stefano Ricci,	Barista,	32,	Mar-Dom,	
+8	Luca Fontana,	Barista,	40,	Lun-Dom,	No lunedì 23/03/2026
+9	Marta Pellegrini,	Barista,	24,	Gio-Dom,
+10	Elena Gallo,	Cassiere,	40,	Lun-Ven,	No turni serali
+11	Andrea Muti,	Cassiere,	32,	Lun-Dom,	No domenica 29/03/2026
+12	Federica Longo,	Cassiere,	16,	Sab-Dom,	Solo weekend
+13	Simone Caruso,	Cassiere,	40,	Lun-Dom,	
+14	Beatrice Fabbri,	Cassiere,	32,	Lun-Dom,	No sabato 28/03/2026 mattina
+15	Paolo Esposito,	Addetto Sala,	40,	Lun-Dom,	No giovedì 26/03/2026 sera
+16	Chiara Vitale,	Addetto Sala,	32,	Lun-Dom,	
+17	Davide Greco,	Addetto Sala,	24,	Mer-Dom,	
+18	Irene Monti,	Addetto Sala,	40,	Lun-Dom,	No martedì 24/03/2026
+19	Nicola Ferrara,	Addetto Sala,	32,	Lun-Dom,	
+20	Sara Benedetti,	Addetto Sala,	16,	Sab-Dom,	Solo weekend
+21	Tommaso Rizzo,	Addetto Sala,	40,	Lun-Dom,	
