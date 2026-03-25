@@ -1,23 +1,21 @@
-
-| Nome             | Ruolo        | Contratto (ore/sett) | Disponibilità | Note                         |
-| ---------------- | ------------ | -------------------- | ------------- | ---------------------------- |
-| Marco Ferretti   | Responsabile | 40                   | Lun–Dom       | No sabato 28/03/2026 mattina |
-| Laura Conti      | Responsabile | 40                   | Lun–Dom       | —                            |
-| Roberto Sala     | Responsabile | 32                   | Mer–Dom       | —                            |
-| Anna Trevisan    | Responsabile | 40                   | Lun–Dom       | No venerdì 27/03/2026 sera   |
-| Giulia Marino    | Barista      | 40                   | Lun–Dom       | —                            |
-| Stefano Ricci    | Barista      | 32                   | Mar–Dom       | —                            |
-| Luca Fontana     | Barista      | 40                   | Lun–Dom       | No lunedì 23/03/2026         |
-| Marta Pellegrini | Barista      | 24                   | Gio–Dom       | —                            |
-| Elena Gallo      | Cassiere     | 40                   | Lun–Ven       | No turni serali              |
-| Andrea Muti      | Cassiere     | 32                   | Lun–Dom       | No domenica 29/03/2026       |
-| Federica Longo   | Cassiere     | 16                   | Sab–Dom       | Solo weekend                 |
-| Simone Caruso    | Cassiere     | 40                   | Lun–Dom       | —                            |
-| Beatrice Fabbri  | Cassiere     | 32                   | Lun–Dom       | No sabato 28/03/2026 mattina |
-| Paolo Esposito   | Addetto Sala | 40                   | Lun–Dom       | No giovedì 26/03/2026 sera   |
-| Chiara Vitale    | Addetto Sala | 32                   | Lun–Dom       | —                            |
-| Davide Greco     | Addetto Sala | 24                   | Mer–Dom       | —                            |
-| Irene Monti      | Addetto Sala | 40                   | Lun–Dom       | No martedì 24/03/2026        |
-| Nicola Ferrara   | Addetto Sala | 32                   | Lun–Dom       | —                            |
-| Sara Benedetti   | Addetto Sala | 16                   | Sab–Dom       | Solo weekend                 |
-| Tommaso Rizzo    | Addetto Sala | 40                   | Lun–Dom       | —                            |
+Nome,Ruolo,Contratto ore/sett,Disponibilità Giorni,Note Personali
+Marco Ferretti,Responsabile,40,Lun-Dom,No sabato 28/03/2026 mattina
+Laura Conti,Responsabile,40,Lun-Dom,
+Roberto Sala,Responsabile,32,Mer-Dom,
+Anna Trevisan,Responsabile,40,Lun-Dom,No venerdì 27/03/2026 sera
+Giulia Marino,Barista,40,Lun-Dom,
+Stefano Ricci,Barista,32,Mar-Dom,
+Luca Fontana,Barista,40,Lun-Dom,No lunedì 23/03/2026
+Marta Pellegrini,Barista,24,Gio-Dom,
+Elena Gallo,Cassiere,40,Lun-Ven,No turni serali
+Andrea Muti,Cassiere,32,Lun-Dom,No domenica 29/03/2026
+Federica Longo,Cassiere,16,Sab-Dom,Solo weekend
+Simone Caruso,Cassiere,40,Lun-Dom,
+Beatrice Fabbri,Cassiere,32,Lun-Dom,
+Paolo Esposito,Addetto Sala,40,Lun-Dom,No giovedì 26/03/2026 sera
+Chiara Vitale,Addetto Sala,32,Lun-Dom,
+Davide Greco,Addetto Sala,24,Mer-Dom,
+Irene Monti,Addetto Sala,40,Lun-Dom,No martedì 24/03/2026
+Nicola Ferrara,Addetto Sala,32,Lun-Dom,
+Sara Benedetti,Addetto Sala,16,Sab-Dom,Solo weekend
+Tommaso Rizzo,Addetto Sala,40,Lun-Dom,
